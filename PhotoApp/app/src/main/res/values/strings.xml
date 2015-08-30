@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PhotoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_image">DisplayImageActivity</string>
+    <string name="title_activity_share_image">ShareImageActivity</string>
+    <string name="title_activity_gesture_control">GestureControlActivity</string>
+    <string name="output">Image has been successfully saved into folder:</string>
+    <string name="running_face_detection">wait a moment</string>
+    <string name="multiface_crop_help">click a face</string>
+    <string name="saturation">satu</string>
+    <string name="lightness">ligh</string>
+    <string name="contrast">contr</string>
+</resources>
